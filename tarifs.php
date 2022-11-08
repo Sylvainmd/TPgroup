@@ -8,7 +8,7 @@
 
           
         <div class="center">
-            <img src="images/workinprogress.jpg">
+            <img src="images/load.gif">
         </div>
           
           <p></p>
