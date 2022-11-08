@@ -10,8 +10,7 @@
         <div class="center">
             <img src="images/load.gif">
         </div>
-        <h1><img src="wip.gif">
-            </h1>
+
           <p></p>
           <ul>
             <li>
@@ -23,7 +22,7 @@
           </ul>
 
           
-          
+
         <?php
             include('footer.php');
         ?>
