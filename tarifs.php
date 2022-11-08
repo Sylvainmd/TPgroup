@@ -8,7 +8,7 @@
 
           
         <div class="center">
-            <img src="images/workinprogress.jpg">
+            
         </div>
           
           <p></p>
