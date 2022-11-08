@@ -7,9 +7,7 @@ body {
 
 .wip {
     background-image: url("images/workinprogress.jpg");
-    
-
-}
+    }
 
 
 ul {
@@ -63,4 +61,9 @@ button {
 
 #italic {
     font-style: italic;
+}
+
+form {
+    text-align: center;
+    margin: auto auto;
 }
