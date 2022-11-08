@@ -36,7 +36,7 @@ header {
 }
 
 .liens {
-    color: #e81c4f;
+    color: blue;
     text-decoration: none;
 }
 
@@ -63,4 +63,8 @@ button {
 
 #italic {
     font-style: italic;
+}
+
+form {
+    margin: auto auto;
 }
