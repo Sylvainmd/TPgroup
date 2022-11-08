@@ -64,3 +64,8 @@ button {
 #italic {
     font-style: italic;
 }
+
+form {
+    text-align: center;
+    margin: auto auto;
+}
